@@ -1,0 +1,18 @@
+{
+  "author": "Attila Gyorffy",
+  "name": "backbone-express-mongoose-socketio",
+  "description": "This is an example application skeleton which utilizes the componens in its name.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/liquid/backbone-express-mongoose-socketio",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/liquid/backbone-express-mongoose-socketio.git"
+  },
+  "engines": {
+    "node": "~0.6.5"
+  },
+  "dependencies": {
+	  
+  },
+  "devDependencies": {}
+}
