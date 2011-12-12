@@ -3,7 +3,7 @@ require("./lib/underscore");
 var Server = {},
     express = require("express"),
     path = require("path"),
-    sys = require("sys"),
+    util = require("util"),
     application_root = __dirname;
 
 global.Server = Server;
